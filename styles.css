@@ -21,6 +21,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding:25px;
 }
 
 #inner {
@@ -32,5 +33,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding:25px;
 }
 
