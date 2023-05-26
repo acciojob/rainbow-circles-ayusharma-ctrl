@@ -7,9 +7,6 @@
   background-color: rgb(255, 165, 0);
   border: 25px solid rgb(255, 0, 0);
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 #middle {
@@ -18,10 +15,7 @@
   background-color: rgb(0, 128, 0);
   border: 25px solid #ffff00;	
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding:25px;
+  margin:25px;
 }
 
 #inner {
@@ -30,9 +24,6 @@
   background-color: rgb(128, 0, 128);
   border: 25px solid #0000ff;
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding:25px;
+  margin:25px;
 }
 
