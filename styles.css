@@ -1,3 +1,6 @@
+*{
+	box-sizing: border-box;
+}
 #outer {
   width: 300px;
   height: 300px;
